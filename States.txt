@@ -1,0 +1,13 @@
+If you read the Info.txt in each script (or info box in each individual file), you'll notice the state of the script at the top, this file will explain what each state means.
+
+1. Finished: The script is completely finished and should work, but this doesn't mean it WILL work.
+
+2. Working: The script was in working condition last time it was used. This does not necessarily mean it will work now, that it is completely finished, or that it doesn't require an external script to get it working.
+
+3. Outdated: The script is using outdated coding practices or deprecated functions that may or may not break certain features or the entirety of the script.
+
+4. Unoptimized: The script is using coding practices that aren't efficient and could slow down the game.
+
+5. Unfinished: The script was never finished and probably won't work in it's current state.
+
+6. Broken: The script was broken when it was last used. Use at your own risk.
