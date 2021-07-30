@@ -1,6 +1,6 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 
 	Description: Part of an old system for CityRP that allowed players to buy a 75% disount for all
 	NPC shop for 1 million dollars. It was jokingly called the CityRP Challenge because it was thought

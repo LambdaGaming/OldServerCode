@@ -1,4 +1,4 @@
-State: Finished and Working
+State: Finished
 
 Description: This was used on the Nazi Invasion RP server for any rebels to use to listen for radio chatter from Nazi players or to collect intel and turn it into the ally NPC for a reward to help them further the rebellion.
 	

@@ -1,6 +1,6 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 
 	Description: This was used on the Nazi Invasion RP server by Nazi jobs to hand out work permits to German citizens so they can legally make money in the RP.
 	

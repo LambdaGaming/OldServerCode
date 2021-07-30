@@ -1,6 +1,6 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 	
 	Description: This was an entity in CityRP that allowed police jobs to go off-duty while still being
 	able to hold their job position. It would keep and store job-specific weapons in the locker until

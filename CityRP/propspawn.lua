@@ -1,6 +1,6 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 	
 	Description: This went along with a Shopkeeper job on CityRP that allowed superadmins to switch
 	between props being free or not with simple chat commands. This script also handled charging

@@ -1,13 +1,12 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 
 	Description: Runs an SQL command through DarkRP that resets the wallets of all registered players
 	to 3000. This was used on HLU RP to reset wallets every session to avoid inflation that would have
 	resulted in unbalanced teams.
 	
-	Reason for Removal: The server moved away from using money to a system that allows for virtually
-	unlimited spawns at the cost of cooldown timers and spawn amount caps.
+	Reason for Removal: The server moved away from using individual wallets to using a global budget that the facility administrator managed.
 ]]
 
 if SERVER then

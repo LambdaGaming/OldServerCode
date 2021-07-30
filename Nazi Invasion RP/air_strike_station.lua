@@ -1,6 +1,6 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 
 	Description: This was used on the Nazi Invasion RP server by Nazi jobs to call in airstrikes through the Gredwitch addon.
 	

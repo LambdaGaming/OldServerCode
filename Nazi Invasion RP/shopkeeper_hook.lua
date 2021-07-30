@@ -1,6 +1,6 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 
 	Description: This was used on the Nazi Invasion RP server to prevent players from spawning props if there was an active shopkeeper on the server.
 	

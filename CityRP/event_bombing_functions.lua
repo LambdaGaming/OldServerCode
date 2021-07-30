@@ -1,6 +1,6 @@
 
 --[[
-	State: Finished and Working
+	State: Finished
 	
 	Description: This was used on CityRP as part of a mayor event where North Korea would bomb the city
 	if the mayor ignored their threats. This uses some of the code from a similar event on the old
