@@ -1,5 +1,0 @@
-State: Working
-
-Description: This was an old entity from the now removed Crime RP server. It was meant to act as a way to repair vehicles since there was no shop NPC on the server to buy repair kits from, though the only use it ever got was during test sessions, as it was added not long before Crime RP was repurposed.
-
-Reason for Removal: Was removed when Crime RP was repurposed into Chaos RP.
