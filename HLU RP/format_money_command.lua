@@ -1,4 +1,3 @@
-
 --[[
 	State: Finished
 
@@ -6,7 +5,7 @@
 	to 3000. This was used on HLU RP to reset wallets every session to avoid inflation that would have
 	resulted in unbalanced teams.
 	
-	Reason for Removal: The server moved away from using individual wallets to using a global budget that the facility administrator managed.
+	Reason for Removal: Gamemode was rewritten from scratch and no longer used DarkRP or individual wallets.
 ]]
 
 if SERVER then
